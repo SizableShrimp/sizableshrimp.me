@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata modelVersion="1.1.0">
+  <groupId>org.spongepowered</groupId>
+  <artifactId>mixingradle</artifactId>
+  <version>0.8-SNAPSHOT</version>
+  <versioning>
+    <snapshot>
+      <timestamp>20210525.201539</timestamp>
+      <buildNumber>1</buildNumber>
+    </snapshot>
+    <lastUpdated>20210525201539</lastUpdated>
+    <snapshotVersions>
+      <snapshotVersion>
+        <extension>jar</extension>
+        <value>0.8-20210525.201539-1</value>
+        <updated>20210525201539</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <extension>module</extension>
+        <value>0.8-20210525.201539-1</value>
+        <updated>20210525201539</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <extension>pom</extension>
+        <value>0.8-20210525.201539-1</value>
+        <updated>20210525201539</updated>
+      </snapshotVersion>
+    </snapshotVersions>
+  </versioning>
+</metadata>
