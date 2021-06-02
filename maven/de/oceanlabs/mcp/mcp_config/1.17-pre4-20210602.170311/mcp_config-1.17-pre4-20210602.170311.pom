@@ -4,7 +4,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>de.oceanlabs.mcp</groupId>
   <artifactId>mcp_config</artifactId>
-  <version>1.17-pre4-20210602.162804</version>
+  <version>1.17-pre4-20210602.170311</version>
   <packaging>zip</packaging>
   <name>MCPConfig</name>
   <description>Configuration files used for deobfuscating and modding Minecraft.</description>
