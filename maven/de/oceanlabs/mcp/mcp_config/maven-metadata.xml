@@ -3,8 +3,8 @@
   <groupId>de.oceanlabs.mcp</groupId>
   <artifactId>mcp_config</artifactId>
   <versioning>
-    <latest>1.17-pre4-20210602.170311</latest>
-    <release>1.17-pre4-20210602.170311</release>
+    <latest>1.17-pre4-20210603.062349</latest>
+    <release>1.17-pre4-20210603.062349</release>
     <versions>
       <version>1.17-pre1-20210531.145049</version>
       <version>1.17-pre2-20210531.155358</version>
@@ -13,9 +13,8 @@
       <version>1.17-pre3</version>
       <version>1.17-pre3-20210601.152623</version>
       <version>1.17-pre4</version>
-      <version>1.17-pre4-20210602.162804</version>
-      <version>1.17-pre4-20210602.170311</version>
+      <version>1.17-pre4-20210603.062349</version>
     </versions>
-    <lastUpdated>20210602220312</lastUpdated>
+    <lastUpdated>20210603112349</lastUpdated>
   </versioning>
 </metadata>
