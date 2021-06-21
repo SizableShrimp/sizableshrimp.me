@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>org.spongepowered</groupId>
+  <artifactId>mixin</artifactId>
+  <versioning>
+    <release>0.8.2-fixed</release>
+    <versions>
+      <version>0.8.2-fixed</version>
+    </versions>
+    <lastUpdated>20210621231039</lastUpdated>
+  </versioning>
+</metadata>
