@@ -3,14 +3,15 @@
   "component": {
     "group": "me.sizableshrimp.parchmenttest",
     "module": "ForgeGradle",
-    "version": "5.0.67",
+    "version": "4.1.14",
     "attributes": {
       "org.gradle.status": "release"
     }
   },
   "createdBy": {
     "gradle": {
-      "version": "7.1"
+      "version": "6.8.1",
+      "buildId": "ljghdti42zbtzlzvugdhos6hny"
     }
   },
   "variants": [
@@ -25,13 +26,13 @@
       },
       "files": [
         {
-          "name": "ForgeGradle-5.0.67.jar",
-          "url": "ForgeGradle-5.0.67.jar",
-          "size": 398418,
-          "sha512": "71b566946fa9c41a69c0e14be9743b2d6e1bdd80c9b20dd2214409e1bdd1a578baf96214c8362929441ec25401c4a35fc71755bad45de1876d64ae35c74e4232",
-          "sha256": "7bcd33c0a81f6e090758e695de7585101749b733125883e69393e23079f5b014",
-          "sha1": "e0fb5aa81f5f05de5935eb95e653c6ee0377057e",
-          "md5": "4937965d4ee1519cbe50c855d37fcf67"
+          "name": "ForgeGradle-4.1.14.jar",
+          "url": "ForgeGradle-4.1.14.jar",
+          "size": 392282,
+          "sha512": "f29e926ebb7e03aa808d8271ea9336c002dd34a00885dce911482fde74dedca64df1a8d11bc3f914539eaba38f9265e01810f8fed59d0c1624870c0894b5d3c3",
+          "sha256": "a149bf84e1518d97e1600f2907dd9a39d762a3062d1a3ab2abef3348fb67bdbd",
+          "sha1": "868cf98f5ea95aa27220a0ca3fb95e7e4603770b",
+          "md5": "042b7c75a7dc214d8b7c05e9120f70a8"
         }
       ]
     },
@@ -50,6 +51,32 @@
           "module": "commons-io",
           "version": {
             "requires": "2.8.0"
+          },
+          "excludes": [
+            {
+              "group": "org.ow2.asm",
+              "module": "*"
+            }
+          ]
+        },
+        {
+          "group": "com.github.jponge",
+          "module": "lzma-java",
+          "version": {
+            "requires": "1.3"
+          },
+          "excludes": [
+            {
+              "group": "org.ow2.asm",
+              "module": "*"
+            }
+          ]
+        },
+        {
+          "group": "com.nothome",
+          "module": "javaxdelta",
+          "version": {
+            "requires": "2.0.1"
           },
           "excludes": [
             {
@@ -101,7 +128,7 @@
           "group": "net.minecraftforge",
           "module": "artifactural",
           "version": {
-            "requires": "3.0.8"
+            "requires": "2.0.3"
           },
           "excludes": [
             {
@@ -140,7 +167,7 @@
           "group": "net.minecraftforge",
           "module": "srgutils",
           "version": {
-            "requires": "0.4.3"
+            "requires": "0.4.1"
           },
           "excludes": [
             {
@@ -153,7 +180,7 @@
           "group": "net.minecraftforge",
           "module": "DiffPatch",
           "version": {
-            "requires": "2.0.7"
+            "requires": "2.0.5"
           },
           "excludes": [
             {
@@ -173,13 +200,13 @@
       ],
       "files": [
         {
-          "name": "ForgeGradle-5.0.67.jar",
-          "url": "ForgeGradle-5.0.67.jar",
-          "size": 398418,
-          "sha512": "71b566946fa9c41a69c0e14be9743b2d6e1bdd80c9b20dd2214409e1bdd1a578baf96214c8362929441ec25401c4a35fc71755bad45de1876d64ae35c74e4232",
-          "sha256": "7bcd33c0a81f6e090758e695de7585101749b733125883e69393e23079f5b014",
-          "sha1": "e0fb5aa81f5f05de5935eb95e653c6ee0377057e",
-          "md5": "4937965d4ee1519cbe50c855d37fcf67"
+          "name": "ForgeGradle-4.1.14.jar",
+          "url": "ForgeGradle-4.1.14.jar",
+          "size": 392282,
+          "sha512": "f29e926ebb7e03aa808d8271ea9336c002dd34a00885dce911482fde74dedca64df1a8d11bc3f914539eaba38f9265e01810f8fed59d0c1624870c0894b5d3c3",
+          "sha256": "a149bf84e1518d97e1600f2907dd9a39d762a3062d1a3ab2abef3348fb67bdbd",
+          "sha1": "868cf98f5ea95aa27220a0ca3fb95e7e4603770b",
+          "md5": "042b7c75a7dc214d8b7c05e9120f70a8"
         }
       ]
     }
