@@ -1,0 +1,80 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "wtf.gofancy.fancygradle",
+    "module": "wtf.gofancy.fancygradle.gradle.plugin",
+    "version": "1.0.1",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "7.0.2"
+    }
+  },
+  "variants": [
+    {
+      "name": "apiElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 8,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-api",
+        "org.jetbrains.kotlin.localToProject": "public",
+        "org.jetbrains.kotlin.platform.type": "jvm"
+      },
+      "files": [
+        {
+          "name": "FancyGradle-1.0.1.jar",
+          "url": "FancyGradle-1.0.1.jar",
+          "size": 60934,
+          "sha512": "8b7e07f14add999f66ad3caabbd6b880717a516f4518a620f5ed730fb8c41dc7dc42aa87a9b64dda275b8880fbc8498f8b159f512e805b7f12dd8e98655605c2",
+          "sha256": "3e5b084ef818ca3c1a80d7a4db246742d84b2c7f9adba709dbe9c9194569f78e",
+          "sha1": "02c194a0f07a2bfec4367cb31aba403613a6a108",
+          "md5": "503430623301db683646c6c822a766a8"
+        }
+      ]
+    },
+    {
+      "name": "runtimeElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 8,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-runtime",
+        "org.jetbrains.kotlin.localToProject": "public",
+        "org.jetbrains.kotlin.platform.type": "jvm"
+      },
+      "dependencies": [
+        {
+          "group": "org.jetbrains.kotlin",
+          "module": "kotlin-reflect",
+          "version": {
+            "requires": "1.5.0"
+          }
+        },
+        {
+          "group": "org.jetbrains.kotlin",
+          "module": "kotlin-stdlib-jdk8",
+          "version": {
+            "requires": "1.5.0"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "FancyGradle-1.0.1.jar",
+          "url": "FancyGradle-1.0.1.jar",
+          "size": 60934,
+          "sha512": "8b7e07f14add999f66ad3caabbd6b880717a516f4518a620f5ed730fb8c41dc7dc42aa87a9b64dda275b8880fbc8498f8b159f512e805b7f12dd8e98655605c2",
+          "sha256": "3e5b084ef818ca3c1a80d7a4db246742d84b2c7f9adba709dbe9c9194569f78e",
+          "sha1": "02c194a0f07a2bfec4367cb31aba403613a6a108",
+          "md5": "503430623301db683646c6c822a766a8"
+        }
+      ]
+    }
+  ]
+}
