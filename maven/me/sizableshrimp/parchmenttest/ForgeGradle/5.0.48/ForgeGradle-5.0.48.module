@@ -28,10 +28,10 @@
           "name": "ForgeGradle-5.0.48.jar",
           "url": "ForgeGradle-5.0.48.jar",
           "size": 403855,
-          "sha512": "454e289899b7dcaf590ef4465a0cd1b400134f2f60ed6ac0e44fc2c6c12325f85431c9ea87bc202d73e62383b4001f9b327274311c866e9e2f572f85ad5061b8",
-          "sha256": "e2e5610b8798bd2b57ef495c672af9d2947b5084f50ddce3f8ff26ee9418110c",
-          "sha1": "61f35522171788d0585b5025d4e984e0da1235c3",
-          "md5": "cae615e36023044d4a98ddcad5608d46"
+          "sha512": "9663338022bd67aedc9fb0f92d4a5fa87bd1ead3ef7ccb3492b41d7ff94398174b841f6fd53b3422250f2cde173d1f3418c7f6c354d9618ee97f0195c4f6328e",
+          "sha256": "14afe2a07bf7757d9cebbf9ece0adfc474947e4ec07b0db2a70cdc783d3e4612",
+          "sha1": "b1665107836242d2327391cd557d1f5fbf0f7856",
+          "md5": "30fd5c5779f7d9d3c775c972b50b5eb2"
         }
       ]
     },
@@ -176,10 +176,10 @@
           "name": "ForgeGradle-5.0.48.jar",
           "url": "ForgeGradle-5.0.48.jar",
           "size": 403855,
-          "sha512": "454e289899b7dcaf590ef4465a0cd1b400134f2f60ed6ac0e44fc2c6c12325f85431c9ea87bc202d73e62383b4001f9b327274311c866e9e2f572f85ad5061b8",
-          "sha256": "e2e5610b8798bd2b57ef495c672af9d2947b5084f50ddce3f8ff26ee9418110c",
-          "sha1": "61f35522171788d0585b5025d4e984e0da1235c3",
-          "md5": "cae615e36023044d4a98ddcad5608d46"
+          "sha512": "9663338022bd67aedc9fb0f92d4a5fa87bd1ead3ef7ccb3492b41d7ff94398174b841f6fd53b3422250f2cde173d1f3418c7f6c354d9618ee97f0195c4f6328e",
+          "sha256": "14afe2a07bf7757d9cebbf9ece0adfc474947e4ec07b0db2a70cdc783d3e4612",
+          "sha1": "b1665107836242d2327391cd557d1f5fbf0f7856",
+          "md5": "30fd5c5779f7d9d3c775c972b50b5eb2"
         }
       ]
     }
