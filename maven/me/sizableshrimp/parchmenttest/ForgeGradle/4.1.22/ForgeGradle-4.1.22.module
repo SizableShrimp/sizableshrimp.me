@@ -11,7 +11,7 @@
   "createdBy": {
     "gradle": {
       "version": "6.8.1",
-      "buildId": "wwwxscqne5f65campuze4ucpw4"
+      "buildId": "er6eu7muyreuvhkzt5p3gvu5ou"
     }
   },
   "variants": [
@@ -28,11 +28,11 @@
         {
           "name": "ForgeGradle-4.1.22.jar",
           "url": "ForgeGradle-4.1.22.jar",
-          "size": 401114,
-          "sha512": "298961f62a70ef354b78e34a20c5c2f441a29eb861a72f6fd7f37fc76e9adc52c8806a3d6f862ad9d9e1695b008e10a7899006127eabca93fe92784d198fde45",
-          "sha256": "2560b384d51f102ae5b35d68b41c60b302dc612b5d62bb4cd9df533044611e70",
-          "sha1": "b348e88bb5db69332dfe3d0fdce10ae5c803534d",
-          "md5": "ff4b65a524c2b963a236df70efcab21b"
+          "size": 401235,
+          "sha512": "bdeb528660cd3ca0a8ee2df5afef63f62c0d1d181b9326c93697bc52252b618042250a31db53278d914bab45141eaa55eadf326066e3adadf56a607ec08d718c",
+          "sha256": "c7c303fe612eaedfef7d4b16ca67d675f81eeeb145f2ace9459e7df154487ee6",
+          "sha1": "d7b8db2a55debbfe815e39419476fdce0a682509",
+          "md5": "833766247ca431458a10fa4398d52223"
         }
       ]
     },
@@ -202,11 +202,11 @@
         {
           "name": "ForgeGradle-4.1.22.jar",
           "url": "ForgeGradle-4.1.22.jar",
-          "size": 401114,
-          "sha512": "298961f62a70ef354b78e34a20c5c2f441a29eb861a72f6fd7f37fc76e9adc52c8806a3d6f862ad9d9e1695b008e10a7899006127eabca93fe92784d198fde45",
-          "sha256": "2560b384d51f102ae5b35d68b41c60b302dc612b5d62bb4cd9df533044611e70",
-          "sha1": "b348e88bb5db69332dfe3d0fdce10ae5c803534d",
-          "md5": "ff4b65a524c2b963a236df70efcab21b"
+          "size": 401235,
+          "sha512": "bdeb528660cd3ca0a8ee2df5afef63f62c0d1d181b9326c93697bc52252b618042250a31db53278d914bab45141eaa55eadf326066e3adadf56a607ec08d718c",
+          "sha256": "c7c303fe612eaedfef7d4b16ca67d675f81eeeb145f2ace9459e7df154487ee6",
+          "sha1": "d7b8db2a55debbfe815e39419476fdce0a682509",
+          "md5": "833766247ca431458a10fa4398d52223"
         }
       ]
     }
