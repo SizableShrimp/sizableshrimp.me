@@ -1,9 +1,9 @@
 {
   "formatVersion": "1.1",
   "component": {
-    "group": "me.sizableshrimp.gradlecleanup",
+    "group": "me.sizableshrimp.parchmenttest",
     "module": "ForgeGradle",
-    "version": "5.0.57",
+    "version": "5.1.36",
     "attributes": {
       "org.gradle.status": "release"
     }
@@ -25,13 +25,13 @@
       },
       "files": [
         {
-          "name": "ForgeGradle-5.0.57.jar",
-          "url": "ForgeGradle-5.0.57.jar",
-          "size": 392682,
-          "sha512": "892e3b628f85641d03d80853e037e5754f7f4256a93670259895f15485678ba3cf1a7908127a6275608085c2e194641ac91f05533fdbe2f52726ff141e084af7",
-          "sha256": "309cfb8aaf03f8823226b921d36356148451e0e87e6928142e8ec3f58ced155e",
-          "sha1": "bcb13eea2579131ef5d7cee7eb19782f887f337b",
-          "md5": "7b237938f169f91bc76d78bcc3defc67"
+          "name": "ForgeGradle-5.1.36.jar",
+          "url": "ForgeGradle-5.1.36.jar",
+          "size": 416025,
+          "sha512": "7bde7e240935b08a6a64ed2808415bb9564fc7906a92290ff3fcd4b7bae00e5214f58bdeba3bdc9558e6ac9cefb548ff2598d6ec993e46033e85494f652935ec",
+          "sha256": "fdbf7127334e6d7d876aa68688a6d106d81815a396fa3a7537bf97740828aaec",
+          "sha1": "3e7d52da8fe39752c68adac5daca206be652ec70",
+          "md5": "ea77e2ee7b8fcd0cfb06fd6579b8b0f4"
         }
       ]
     },
@@ -173,13 +173,13 @@
       ],
       "files": [
         {
-          "name": "ForgeGradle-5.0.57.jar",
-          "url": "ForgeGradle-5.0.57.jar",
-          "size": 392682,
-          "sha512": "892e3b628f85641d03d80853e037e5754f7f4256a93670259895f15485678ba3cf1a7908127a6275608085c2e194641ac91f05533fdbe2f52726ff141e084af7",
-          "sha256": "309cfb8aaf03f8823226b921d36356148451e0e87e6928142e8ec3f58ced155e",
-          "sha1": "bcb13eea2579131ef5d7cee7eb19782f887f337b",
-          "md5": "7b237938f169f91bc76d78bcc3defc67"
+          "name": "ForgeGradle-5.1.36.jar",
+          "url": "ForgeGradle-5.1.36.jar",
+          "size": 416025,
+          "sha512": "7bde7e240935b08a6a64ed2808415bb9564fc7906a92290ff3fcd4b7bae00e5214f58bdeba3bdc9558e6ac9cefb548ff2598d6ec993e46033e85494f652935ec",
+          "sha256": "fdbf7127334e6d7d876aa68688a6d106d81815a396fa3a7537bf97740828aaec",
+          "sha1": "3e7d52da8fe39752c68adac5daca206be652ec70",
+          "md5": "ea77e2ee7b8fcd0cfb06fd6579b8b0f4"
         }
       ]
     }

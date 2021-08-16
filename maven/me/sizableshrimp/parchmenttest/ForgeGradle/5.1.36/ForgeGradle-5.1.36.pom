@@ -7,9 +7,9 @@
   <!-- that they should prefer consuming it instead. -->
   <!-- do_not_remove: published-with-gradle-metadata -->
   <modelVersion>4.0.0</modelVersion>
-  <groupId>me.sizableshrimp.gradlecleanup</groupId>
+  <groupId>me.sizableshrimp.parchmenttest</groupId>
   <artifactId>ForgeGradle</artifactId>
-  <version>5.0.57</version>
+  <version>5.1.36</version>
   <dependencies>
     <dependency>
       <groupId>commons-io</groupId>
