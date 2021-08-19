@@ -11,7 +11,7 @@
   "createdBy": {
     "gradle": {
       "version": "6.8.1",
-      "buildId": "er6eu7muyreuvhkzt5p3gvu5ou"
+      "buildId": "iafw2mo2tngtnchftifsa2xtre"
     }
   },
   "variants": [
@@ -28,11 +28,11 @@
         {
           "name": "ForgeGradle-4.1.22.jar",
           "url": "ForgeGradle-4.1.22.jar",
-          "size": 401235,
-          "sha512": "bdeb528660cd3ca0a8ee2df5afef63f62c0d1d181b9326c93697bc52252b618042250a31db53278d914bab45141eaa55eadf326066e3adadf56a607ec08d718c",
-          "sha256": "c7c303fe612eaedfef7d4b16ca67d675f81eeeb145f2ace9459e7df154487ee6",
-          "sha1": "d7b8db2a55debbfe815e39419476fdce0a682509",
-          "md5": "833766247ca431458a10fa4398d52223"
+          "size": 401332,
+          "sha512": "469f767ab3e9120d728e9c6bc360fbe89cf4090b460fb67854c87611ac3f8f6f44c08c9d928821091d0bcdf561c735358a6f957229e52b1099bf218d6c590614",
+          "sha256": "5d0051f01d05ae30719c1c62531d4f58306d04821e69d89b565f4491b7042ef4",
+          "sha1": "887e0af6c46d1cec09ba668d15f58c37a585a974",
+          "md5": "1ea54d01619e194521d5f0df8ca324b7"
         }
       ]
     },
@@ -202,11 +202,11 @@
         {
           "name": "ForgeGradle-4.1.22.jar",
           "url": "ForgeGradle-4.1.22.jar",
-          "size": 401235,
-          "sha512": "bdeb528660cd3ca0a8ee2df5afef63f62c0d1d181b9326c93697bc52252b618042250a31db53278d914bab45141eaa55eadf326066e3adadf56a607ec08d718c",
-          "sha256": "c7c303fe612eaedfef7d4b16ca67d675f81eeeb145f2ace9459e7df154487ee6",
-          "sha1": "d7b8db2a55debbfe815e39419476fdce0a682509",
-          "md5": "833766247ca431458a10fa4398d52223"
+          "size": 401332,
+          "sha512": "469f767ab3e9120d728e9c6bc360fbe89cf4090b460fb67854c87611ac3f8f6f44c08c9d928821091d0bcdf561c735358a6f957229e52b1099bf218d6c590614",
+          "sha256": "5d0051f01d05ae30719c1c62531d4f58306d04821e69d89b565f4491b7042ef4",
+          "sha1": "887e0af6c46d1cec09ba668d15f58c37a585a974",
+          "md5": "1ea54d01619e194521d5f0df8ca324b7"
         }
       ]
     }

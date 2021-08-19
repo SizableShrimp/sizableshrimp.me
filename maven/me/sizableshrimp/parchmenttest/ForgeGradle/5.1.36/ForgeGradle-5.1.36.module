@@ -27,11 +27,11 @@
         {
           "name": "ForgeGradle-5.1.36.jar",
           "url": "ForgeGradle-5.1.36.jar",
-          "size": 416025,
-          "sha512": "7bde7e240935b08a6a64ed2808415bb9564fc7906a92290ff3fcd4b7bae00e5214f58bdeba3bdc9558e6ac9cefb548ff2598d6ec993e46033e85494f652935ec",
-          "sha256": "fdbf7127334e6d7d876aa68688a6d106d81815a396fa3a7537bf97740828aaec",
-          "sha1": "3e7d52da8fe39752c68adac5daca206be652ec70",
-          "md5": "ea77e2ee7b8fcd0cfb06fd6579b8b0f4"
+          "size": 416256,
+          "sha512": "82a17d504cd7c553f1a44f105d319c88dfaff8381abac4395342491423734922672dd48ec94ab206662c2c66fb979a8f6e931b5054d3f8712526c00a9e9f149f",
+          "sha256": "e3540310aaa148b3b971037f1bef1255d0f7ac2e5dee62d6664a0381943003d5",
+          "sha1": "b0f7deaa8652b9f767413c86df64dd1de35951ed",
+          "md5": "448144a4a06483963b231ef53d9d887e"
         }
       ]
     },
@@ -175,11 +175,11 @@
         {
           "name": "ForgeGradle-5.1.36.jar",
           "url": "ForgeGradle-5.1.36.jar",
-          "size": 416025,
-          "sha512": "7bde7e240935b08a6a64ed2808415bb9564fc7906a92290ff3fcd4b7bae00e5214f58bdeba3bdc9558e6ac9cefb548ff2598d6ec993e46033e85494f652935ec",
-          "sha256": "fdbf7127334e6d7d876aa68688a6d106d81815a396fa3a7537bf97740828aaec",
-          "sha1": "3e7d52da8fe39752c68adac5daca206be652ec70",
-          "md5": "ea77e2ee7b8fcd0cfb06fd6579b8b0f4"
+          "size": 416256,
+          "sha512": "82a17d504cd7c553f1a44f105d319c88dfaff8381abac4395342491423734922672dd48ec94ab206662c2c66fb979a8f6e931b5054d3f8712526c00a9e9f149f",
+          "sha256": "e3540310aaa148b3b971037f1bef1255d0f7ac2e5dee62d6664a0381943003d5",
+          "sha1": "b0f7deaa8652b9f767413c86df64dd1de35951ed",
+          "md5": "448144a4a06483963b231ef53d9d887e"
         }
       ]
     }
