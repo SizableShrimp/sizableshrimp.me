@@ -1,0 +1,5 @@
+FG_6.0 Changelog
+6.0
+===
+ - 6.0.0 Don't always run prepareX if copy resources is enabled
+
