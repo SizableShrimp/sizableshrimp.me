@@ -3,11 +3,12 @@
   <groupId>me.sizableshrimp.forgegradle.mcp</groupId>
   <artifactId>me.sizableshrimp.forgegradle.mcp.gradle.plugin</artifactId>
   <versioning>
-    <latest>6.0.0</latest>
-    <release>6.0.0</release>
+    <latest>6.0.1</latest>
+    <release>6.0.1</release>
     <versions>
       <version>6.0.0</version>
+      <version>6.0.1</version>
     </versions>
-    <lastUpdated>20230501044334</lastUpdated>
+    <lastUpdated>20230504053547</lastUpdated>
   </versioning>
 </metadata>
