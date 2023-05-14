@@ -1,0 +1,10 @@
+FG_6.0 Changelog
+6.0
+===
+ - 6.0.3 Remove deprecated API use of ConfigureUtil
+ - 6.0.2 Revert "Move userdev ATs to an artifact transformer"
+         This reverts commit 344ba2b5
+ - 6.0.1 Attempt to not error ATs as much
+         Fix error when running `gradlew clean` at all
+ - 6.0.0 Don't always run prepareX if copy resources is enabled
+
